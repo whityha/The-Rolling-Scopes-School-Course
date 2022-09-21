@@ -35,7 +35,7 @@
 
 ### Неделя #3 (5 апреля 2022)
 - [Модуль "Позиционирование в CSS. Flex."](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/css-positioning/)
-- [Модуль "CSS grid layout"]https://github.com/rolling-scopes-school/tasks/tree/master/stage1/(modules/css-grid/)
+- [Модуль "CSS grid layout"](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/css-grid/)
 - [Модуль "Figma"](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/figma/)
 - [Модуль: CSS Preprocessors. Sass](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/sass/)
 - [Проект "Shelter"](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/stream1/shelter)
@@ -60,7 +60,7 @@
 
 ### Неделя #7 (3 мая 2022)
 - [Модуль: "Modules in JS"](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/modules-in-js/)
-- [Модуль: "Webpack"]https://github.com/rolling-scopes-school/tasks/tree/master/stage1/(modules/webpack/)
+- [Модуль: "Webpack"](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/webpack/)
 - [Проект: Виртуальная клавиатура](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/virtual-keyboard/virtual-keyboard-en.md)
 
 ### Неделя #8 (10 мая 2022)
